@@ -1,0 +1,227 @@
+# goBILDA products intentionally skipped by SKU.
+# Format: SKU|last-known-product-URL|reason
+# SKU is the identity; URL is audit metadata only.
+# Delete a SKU line to force a future re-check.
+
+2310-2000-0002|https://www.gobilda.com/replacement-servo-gear-set-2000-2|404 for SKU ZIP and product page has no STEP link
+2310-2000-0003|https://www.gobilda.com/replacement-servo-gear-set-2000-3|404 for SKU ZIP and product page has no STEP link
+2310-2000-0004|https://www.gobilda.com/servo-gear-set-for-2000-series-super-speed-servo|404 for SKU ZIP and product page has no STEP link
+2310-2000-0302|https://www.gobilda.com/servo-gear-set-for-2000-series-torque-servo-v3-0|404 for SKU ZIP and product page has no STEP link
+2310-2000-0303|https://www.gobilda.com/servo-gear-set-for-2000-series-speed-servo-v3-0|404 for SKU ZIP and product page has no STEP link
+2310-2000-0304|https://www.gobilda.com/servo-gear-set-for-2000-series-super-speed-servo-v3-0|404 for SKU ZIP and product page has no STEP link
+2312-0414-0080|https://www.gobilda.com/80-tooth-hub-mount-gear-mod-0-8-4mm-thick-acetal|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+2312-0414-0090|https://www.gobilda.com/90-tooth-hub-mount-gear-mod-0-8-4mm-thick-acetal|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+2312-0414-0096|https://www.gobilda.com/96-tooth-hub-mount-gear-mod-0-8-4mm-thick-acetal|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+2907-0305-0002|https://www.gobilda.com/latex-surgical-tubing-3mm-id-x-5mm-od-2m-length|404 for SKU ZIP and product page has no STEP link
+2908-0100-0005|https://www.gobilda.com/synthetic-cable-1mm-diameter-5-meter-length|404 for SKU ZIP and product page has no STEP link
+2909-0101-0100|https://www.gobilda.com/zip-tie-100mm-length-black-100-pack|404 for SKU ZIP and product page has no STEP link
+2909-0102-0250|https://www.gobilda.com/gobilda-hook-loop-cinch-strap-20mm-width-x-250mm-length-4-pack|404 for SKU ZIP and product page has no STEP link
+2916-0001-0001|https://www.gobilda.com/compression-spring-6mm-id-x-8mm-od-1-1kg-max-load-4-25mm-length-2-pack|404 for SKU ZIP and product page has no STEP link
+2916-0001-0002|https://www.gobilda.com/compression-spring-6mm-id-x-8mm-od-2-3kg-max-load-16-25mm-length-2-pack|404 for SKU ZIP and product page has no STEP link
+2918-2000-0001|https://www.gobilda.com/replacement-servo-case-for-2000-series-dual-mode-servo-v2-0|404 for SKU ZIP and product page has no STEP link
+2918-2000-0002|https://www.gobilda.com/replacement-shaft-for-2000-series-dual-mode-servo-gear-set-6-pack|404 for SKU ZIP and product page has no STEP link
+2918-2000-0301|https://www.gobilda.com/super-lube-synthetic-grease-with-ptfe-clear-1ml-2-pack|404 for SKU ZIP and product page has no STEP link
+2922-0001-0001|https://www.gobilda.com/loctite-threadlocker-blue-242-6ml|404 for SKU ZIP and product page has no STEP link
+2925-0008-3000|https://www.gobilda.com/braided-cable-sleeve-8mm-diameter-3-meter-length|404 for SKU ZIP and product page has no STEP link
+2926-0204-1000|https://www.gobilda.com/ptfe-cable-guide-tubing-2mm-id-4mm-od-1-meter-length|404 for SKU ZIP and product page has no STEP link
+2928-0008-0002|https://www.gobilda.com/silicone-rubber-cord-8mm-diameter-50a-durometer-2-meter-length|404 for SKU ZIP and product page has no STEP link
+2928-0508-0002|https://www.gobilda.com/silicone-rubber-tubing-5mm-id-x-8mm-od-50a-durometer-2-meter-length|404 for SKU ZIP and product page has no STEP link
+3100-0006-0001|https://www.gobilda.com/nimh-battery-6v-2700mah-2-pos-tjc8-power-connector-mh-fc-6-1|404 for SKU ZIP and product page has no STEP link
+3100-0006-0003|https://www.gobilda.com/nimh-battery-6v-3000mah-xt30-connector-mh-fc-20a-fuse-6-3|404 for SKU ZIP and product page has no STEP link
+3100-1020-0001|https://www.gobilda.com/20v-6ah-li-ion-battery-with-led-capacity-meter|404 for SKU ZIP and product page has no STEP link
+3101-0006-0001|https://www.gobilda.com/6v-battery-charger-nicad-nimh-xt30-connector|404 for SKU ZIP and product page has no STEP link
+3101-0012-0001|https://www.gobilda.com/battery-charger-nicad-nimh-12-1|404 for SKU ZIP and product page has no STEP link
+3101-1020-0001|https://www.gobilda.com/20v-li-ion-battery-charger-dewalt-20v-compatible|404 for SKU ZIP and product page has no STEP link
+3102-0001-0001|https://www.gobilda.com/servo-programmer-for-2000-series-dual-mode-servo|404 for SKU ZIP and product page has no STEP link
+3102-0002-0001|https://www.gobilda.com/transmitters-receivers|404 for SKU ZIP and product page has no STEP link
+3104-0006-0001|https://www.gobilda.com/battery-tray-4-cell-square-pack-2-pos-tjc8-power-connector-mh-fc|404 for SKU ZIP and product page has no STEP link
+3108-0102-0201|https://www.gobilda.com/dual-5a-pwm-switch|404 for SKU ZIP and product page has no STEP link
+3109-0007-0001|https://www.gobilda.com/servo-travel-reverser|404 for SKU ZIP and product page has no STEP link
+3113-0004-0001|https://www.gobilda.com/element-4-radio-control-system-pistol-grip|404 for SKU ZIP and product page has no STEP link
+3113-2006-0001|https://www.gobilda.com/element-6-radio-control-system-mode-2|404 for SKU ZIP and product page has no STEP link
+3116-1718-0300|https://www.gobilda.com/signal-boosting-servo-extension-3-pos-tjc8-mh-fc-to-fh-mc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3121-0001-0020|https://www.gobilda.com/20a-atm-series-mini-blade-fuse-4-pack|404 for SKU ZIP and product page has no STEP link
+3200-0101-2627|https://www.gobilda.com/ftc-starter-kit-upgrade-pack-2025-2026-to-2026-2027-season|404 for SKU ZIP and product page has no STEP link
+3200-4008-2627|https://www.gobilda.com/ftc-starter-kit-2026-2027-season|404 for SKU ZIP and product page has no STEP link
+3201-0003-0001|https://www.gobilda.com/gorail-bracket-assortment-pack-202-pcs|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3201-0004-0001|https://www.gobilda.com/m4-socket-head-screw-assortment-pack-600-pcs|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3201-0004-0002|https://www.gobilda.com/m4-button-head-screw-assortment-pack-600-pcs|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3201-0005-0001|https://www.gobilda.com/heat-shrink-tubing-560pc-assortment-pack|404 for SKU ZIP and product page has no STEP link
+3201-0007-0001|https://www.gobilda.com/gobilda-servo-starter-pack|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3201-0008-0001|https://www.gobilda.com/8mm-rex-shaft-starter-pack|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3201-0010-0001|https://www.gobilda.com/m4-hardware-starter-pack-2625-pcs|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3201-0012-0001|https://www.gobilda.com/5mm-pitch-htd-timing-belt-pulley-starter-pack-8mm-rex-bore|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3201-0013-0001|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-pulley-starter-pack-8mm-rex-bore|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3201-0014-0001|https://www.gobilda.com/intake-wheel-starter-pack-8mm-rex-bore|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3201-0015-0001|https://www.gobilda.com/12-piece-tool-set-for-m4-hardware|404 for SKU ZIP and product page has no STEP link
+3203-3110-0001|https://www.gobilda.com/swingarm-odometry-pack-2-pods-1-pinpoint-computer|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3203-3110-0002|https://www.gobilda.com/4-bar-odometry-pack-2-pods-1-pinpoint-computer|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3203-3118-0001|https://www.gobilda.com/prism-rgb-led-light-kit-i-c-pwm-control-driver-4-led-strips|404 for SKU ZIP and product page has no STEP link
+3213-3606-0002|https://www.gobilda.com/96mm-mecanum-wheel-set-70a-durometer-bearing-supported-rollers|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3213-3606-0003|https://www.gobilda.com/140mm-mecanum-wheel-set-70a-durometer-bearing-supported-rollers|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3215-0002-0002|https://www.gobilda.com/stingray-2-servo-gearbox-0-34-sec-60-30rpm-700-oz-in-torque-900-rotation|404 for SKU ZIP and product page has no STEP link
+3215-0002-0003|https://www.gobilda.com/stingray-3-servo-gearbox-0-51-sec-60-20rpm-1050-oz-in-torque-600-rotation|404 for SKU ZIP and product page has no STEP link
+3215-0002-0004|https://www.gobilda.com/stingray-4-servo-gearbox-0-68-sec-60-15-rpm-1400-oz-in-torque-450-rotation|404 for SKU ZIP and product page has no STEP link
+3215-0002-0005|https://www.gobilda.com/stingray-5-servo-gearbox-0-85-sec-60-12-rpm-1750-oz-in-torque-360-rotation|404 for SKU ZIP and product page has no STEP link
+3215-0002-0007|https://www.gobilda.com/stingray-7-servo-gearbox-1-19-sec-60-8-6-rpm-2450-oz-in-torque-257-rotation|404 for SKU ZIP and product page has no STEP link
+3215-0002-0009|https://www.gobilda.com/stingray-9-servo-gearbox-1-53-sec-60-6-7-rpm-3150-oz-in-torque-200-rotation|404 for SKU ZIP and product page has no STEP link
+3216-0002-0003|https://www.gobilda.com/shark-3-servo-gearbox-0-42-sec-60-24-rpm-1416-oz-in-torque-840-rotation|404 for SKU ZIP and product page has no STEP link
+3216-0002-0004|https://www.gobilda.com/shark-4-servo-gearbox-0-56-sec-60-18-rpm-1888-oz-in-torque-630-rotation|404 for SKU ZIP and product page has no STEP link
+3216-0002-0005|https://www.gobilda.com/shark-5-servo-gearbox-0-70-sec-60-14-rpm-2360-oz-in-torque-504-rotation|404 for SKU ZIP and product page has no STEP link
+3216-0002-0007|https://www.gobilda.com/shark-7-servo-gearbox-0-98-sec-60-10-rpm-3304-oz-in-torque-360-rotation|404 for SKU ZIP and product page has no STEP link
+3216-0002-0009|https://www.gobilda.com/shark-9-servo-gearbox-1-26-sec-60-8-rpm-4248-oz-in-torque-280-rotation|404 for SKU ZIP and product page has no STEP link
+3405-0005-0095|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-95mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0134|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-134mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0174|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-174mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0214|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-214mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0254|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-254mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0294|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-294mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0334|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-334mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0374|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-374mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0414|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-414mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0454|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-454mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0494|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-494mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0533|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-533mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0573|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-573mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0613|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-613mm-circumference|404 for SKU ZIP and product page has no STEP link
+3405-0005-0653|https://www.gobilda.com/3405-series-round-belt-5mm-cord-diameter-653mm-circumference|404 for SKU ZIP and product page has no STEP link
+3406-0015-0005|https://www.gobilda.com/3406-series-3mm-htd-pitch-timing-belt-15mm-width-5-meter-cut-length|404 for SKU ZIP and product page has no STEP link
+3412-0009-0215|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-215mm-pitch-length-43-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0225|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-225mm-pitch-length-45-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0245|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-245mm-pitch-length-49-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0265|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-265mm-pitch-length-53-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0275|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-275mm-pitch-length-55-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0295|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-295mm-pitch-length-59-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0315|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-315mm-pitch-length-63-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0320|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-320mm-pitch-length-64-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0340|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-340mm-pitch-length-68-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0360|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-360mm-pitch-length-72-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0370|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-370mm-pitch-length-74-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0380|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-380mm-pitch-length-76-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0390|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-390mm-pitch-length-78-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0410|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-410mm-pitch-length-82-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0420|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-420mm-pitch-length-84-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0425|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-425mm-pitch-length-85-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0445|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-445mm-pitch-length-89-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0460|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-460mm-pitch-length-92-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0470|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-470mm-pitch-length-94-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0485|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-485mm-pitch-length-97-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0505|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-505mm-pitch-length-101-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0520|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-520mm-pitch-length-104-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0535|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-535mm-pitch-length-107-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0560|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-560mm-pitch-length-112-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0580|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-580mm-pitch-length-116-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0600|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-600mm-pitch-length-120-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0650|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-650mm-pitch-length-130-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0700|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-700mm-pitch-length-140-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0745|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-745mm-pitch-length-149-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0800|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-800mm-pitch-length-160-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0840|https://www.gobilda.com/3412-series-5mm-htd-pitch-timing-belt-9mm-width-840mm-pitch-length-168-tooth|404 for SKU ZIP and product page has no STEP link
+3412-0009-0890|https://www.gobilda.com/5mm-pitch-htd-timing-belt-9mm-width-890mm-pitch-length-178-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0088|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-88mm-pitch-length-44-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0136|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-136mm-pitch-length-68-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0184|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-184mm-pitch-length-92-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0216|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-216mm-pitch-length-108-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0232|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-232mm-pitch-length-116-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0264|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-264mm-pitch-length-132-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0280|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-280mm-pitch-length-140-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0312|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-312mm-pitch-length-156-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0328|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-328mm-pitch-length-164-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0360|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-360mm-pitch-length-180-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0376|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-376mm-pitch-length-188-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0408|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-408mm-pitch-length-204-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0418|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-418mm-pitch-length-209-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0424|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-424mm-pitch-length-212-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0456|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-456mm-pitch-length-228-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0466|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-466mm-pitch-length-233-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0472|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-472mm-pitch-length-236-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0504|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-504mm-pitch-length-252-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0514|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-514mm-pitch-length-257-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0552|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-552mm-pitch-length-276-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0600|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-600mm-pitch-length-300-tooth|404 for SKU ZIP and product page has no STEP link
+3423-0006-0648|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-648mm-pitch-length-324-tooth|404 for SKU ZIP and product page has no STEP link
+3426-0006-0005|https://www.gobilda.com/2mm-pitch-gt2-timing-belt-6mm-width-5-meter-cut-length|404 for SKU ZIP and product page has no STEP link
+3611-0030-0104|https://www.gobilda.com/gripforce-mecanum-wheel-roller-pack-30a|404 for SKU ZIP and product page has no STEP link
+3611-0040-0104|https://www.gobilda.com/gripforce-mecanum-wheel-roller-pack-40a|404 for SKU ZIP and product page has no STEP link
+3611-0140-0104|https://www.gobilda.com/strafer-chassis-kit-140mm-mecanum-wheels|404 for SKU ZIP and product page has no STEP link
+3625-0202-0104|https://www.gobilda.com/gripforce-mecanum-wheel-set-o104mm-40a-durometer-rollers|STEP archive is a container of child-SKU CAD; no direct STEP for outer SKU
+3800-0001-0300|https://www.gobilda.com/xt30-lead-fh-mc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3800-0002-0300|https://www.gobilda.com/xt30-lead-mh-fc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3800-0012-0300|https://www.gobilda.com/3-5mm-bullet-lead-fh-mc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3800-0013-0300|https://www.gobilda.com/3-5mm-bullet-lead-mh-fc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3800-0017-0100|https://www.gobilda.com/3-pos-tjc8-servo-lead-mh-fc-100mm-length-2-pack|404 for SKU ZIP and product page has no STEP link
+3800-0017-0150|https://www.gobilda.com/3-pos-tjc8-servo-lead-mh-fc-150mm-length-2-pack|404 for SKU ZIP and product page has no STEP link
+3800-0017-0300|https://www.gobilda.com/3-pos-tjc8-servo-lead-mh-fc-300mm-length-2-pack|404 for SKU ZIP and product page has no STEP link
+3800-0018-0150|https://www.gobilda.com/3-pos-tjc8-servo-lead-fh-mc-150mm-length-2-pack|404 for SKU ZIP and product page has no STEP link
+3800-0018-0300|https://www.gobilda.com/3-pos-tjc8-servo-lead-fh-mc-300mm-length-2-pack|404 for SKU ZIP and product page has no STEP link
+3801-0113-0300|https://www.gobilda.com/xt30-fh-mc-to-3-5mm-bullet-mh-fc-adaptor-300mm-length|404 for SKU ZIP and product page has no STEP link
+3801-0115-0150|https://www.gobilda.com/xt30-fh-mc-to-xt60-mh-fc-adaptor-150mm-length|404 for SKU ZIP and product page has no STEP link
+3801-0121-0060|https://www.gobilda.com/xt30-fh-mc-to-2-pos-tjc8-power-connector-mh-fc-adaptor-60mm-length|404 for SKU ZIP and product page has no STEP link
+3801-0203-0060|https://www.gobilda.com/xt30-mh-fc-to-tamiya-mh-fc-adaptor-60mm-length|404 for SKU ZIP and product page has no STEP link
+3801-0222-0060|https://www.gobilda.com/xt30-mh-fc-to-2-pos-tjc8-power-connector-fh-mc-adaptor-60mm-length|404 for SKU ZIP and product page has no STEP link
+3801-0454-0300|https://www.gobilda.com/4-pos-jst-ph-to-3-pos-jst-ph-adaptor-300mm-length|404 for SKU ZIP and product page has no STEP link
+3801-0502-0060|https://www.gobilda.com/anderson-powerpole-to-female-xt30-adaptor|404 for SKU ZIP and product page has no STEP link
+3801-0513-0100|https://www.gobilda.com/anderson-powerpole-to-3-5mm-bullet-mh-fc-adaptor-100mm-length|404 for SKU ZIP and product page has no STEP link
+3801-0613-0100|https://www.gobilda.com/2-pos-jst-vh-mh-fc-to-3-5mm-bullet-mh-fc-adaptor-100mm-length|404 for SKU ZIP and product page has no STEP link
+3801-0709-0300|https://www.gobilda.com/4-pos-jst-ph-mh-fc-to-4-pos-jst-xh-mh-fc-adaptor-300mm-length|404 for SKU ZIP and product page has no STEP link
+3801-0709-0600|https://www.gobilda.com/4-pos-jst-ph-mh-fc-to-4-pos-jst-xh-mh-fc-adaptor-600mm-length|404 for SKU ZIP and product page has no STEP link
+3801-0919-0300|https://www.gobilda.com/encoder-breakout-cable-4-pos-jst-xh-mh-fc-to-4-x-1-pos-tjc8-mh-fc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3801-0920-0300|https://www.gobilda.com/encoder-breakout-cable-4-pos-jst-xh-mh-fc-to-4-x-1-pos-tjc8-fh-mc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3801-1754-0300|https://www.gobilda.com/3-pos-tjc8-mh-fc-to-3-pos-jst-ph-mh-fc-adaptor-300mm-length|404 for SKU ZIP and product page has no STEP link
+3801-4002-0300|https://www.gobilda.com/xt90-fh-mc-to-xt30-mh-fc-adaptor-300mm-length|404 for SKU ZIP and product page has no STEP link
+3802-0102-0150|https://www.gobilda.com/xt30-extension-fh-mc-to-mh-fc-150mm-length|404 for SKU ZIP and product page has no STEP link
+3802-0102-0300|https://www.gobilda.com/xt30-extension-fh-mc-to-mh-fc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3802-0102-0600|https://www.gobilda.com/xt30-extension-fh-mc-to-mh-fc-600mm-length|404 for SKU ZIP and product page has no STEP link
+3802-0910-0300|https://www.gobilda.com/encoder-cable-extension-4-pos-jst-xh-300mm-length|404 for SKU ZIP and product page has no STEP link
+3802-1213-0300|https://www.gobilda.com/3-5mm-bullet-extension-mh-fc-to-fh-mc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3802-1718-0150|https://www.gobilda.com/servo-extension-3-pos-tjc8-mh-fc-to-fh-mc-150mm-length|404 for SKU ZIP and product page has no STEP link
+3802-1718-0300|https://www.gobilda.com/servo-extension-3-pos-tjc8-mh-fc-to-fh-mc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3802-1718-0450|https://www.gobilda.com/servo-extension-3-pos-tjc8-mh-fc-to-fh-mc-450mm-length|404 for SKU ZIP and product page has no STEP link
+3802-1718-0600|https://www.gobilda.com/servo-extension-3-pos-tjc8-mh-fc-to-fh-mc-600mm-length|404 for SKU ZIP and product page has no STEP link
+3802-1718-0900|https://www.gobilda.com/servo-extension-3-pos-tjc8-mh-fc-to-fh-mc-900mm-length|404 for SKU ZIP and product page has no STEP link
+3802-1718-1200|https://www.gobilda.com/servo-extension-3-pos-tjc8-mh-fc-to-fh-mc-1200mm-length|404 for SKU ZIP and product page has no STEP link
+3802-1920-0020|https://www.gobilda.com/male-to-female-jumper-wire-multicolor-20cm-length-40-pack|404 for SKU ZIP and product page has no STEP link
+3802-2745-4527|https://www.gobilda.com/4-channel-servo-extension-via-cat6|404 for SKU ZIP and product page has no STEP link
+3802-4041-0300|https://www.gobilda.com/xt90-extension-fh-mc-to-mh-fc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3803-0033-0002|https://www.gobilda.com/right-angle-pcb-mount-xt30-connector-mh-fc-2-pack|404 for SKU ZIP and product page has no STEP link
+3803-0102-0505|https://www.gobilda.com/xt30-connector-pack-fh-mc-x-5-mh-fc-x-5|404 for SKU ZIP and product page has no STEP link
+3803-1213-0005|https://www.gobilda.com/3-5mm-bullet-connector-pack-mh-fc-x-5-fh-mc-x-5|404 for SKU ZIP and product page has no STEP link
+3803-1516-0505|https://www.gobilda.com/xt60-connector-pack-mh-fc-x-5-fh-mc-x-5|404 for SKU ZIP and product page has no STEP link
+3804-0707-0600|https://www.gobilda.com/jst-ph-cable-4-pos-jst-ph-mh-fc-to-mh-fc-600mm-length|404 for SKU ZIP and product page has no STEP link
+3804-1717-0100|https://www.gobilda.com/3-pos-tjc8-servo-extension-mh-fc-to-mh-fc-100mm-length|404 for SKU ZIP and product page has no STEP link
+3804-1717-0150|https://www.gobilda.com/3-pos-tjc8-servo-extension-mh-fc-to-mh-fc-150mm-length|404 for SKU ZIP and product page has no STEP link
+3804-1717-0300|https://www.gobilda.com/3-pos-tjc8-servo-extension-mh-fc-to-mh-fc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3804-1919-0010|https://www.gobilda.com/female-to-female-jumper-wire-multicolor-10cm-length-40-pack|404 for SKU ZIP and product page has no STEP link
+3804-1919-0020|https://www.gobilda.com/female-to-female-jumper-wire-multicolor-20cm-length-40-pack|404 for SKU ZIP and product page has no STEP link
+3804-1919-0050|https://www.gobilda.com/female-to-female-jumper-wire-multicolor-50cm-length-40-pack|404 for SKU ZIP and product page has no STEP link
+3804-2020-0010|https://www.gobilda.com/male-to-male-jumper-wire-multicolor-10cm-length-40-pack|404 for SKU ZIP and product page has no STEP link
+3804-2020-0020|https://www.gobilda.com/male-to-male-jumper-wire-multicolor-20cm-length-40-pack|404 for SKU ZIP and product page has no STEP link
+3804-2020-0050|https://www.gobilda.com/male-to-male-jumper-wire-multicolor-50cm-length-40-pack|404 for SKU ZIP and product page has no STEP link
+3804-5454-0300|https://www.gobilda.com/jst-ph-cable-3-pos-jst-ph-mh-fc-to-mh-fc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3805-0102-0150|https://www.gobilda.com/xt30-y-harness-single-fh-mc-xt30-to-dual-mh-fc-xt30-150mm-length|404 for SKU ZIP and product page has no STEP link
+3805-1213-0150|https://www.gobilda.com/3-5mm-bullet-y-harness-single-fh-mc-to-dual-mh-fc-150mm-length|404 for SKU ZIP and product page has no STEP link
+3805-1602-0150|https://www.gobilda.com/xt60-to-xt30-y-harness-single-fh-mc-xt60-to-dual-mh-fc-xt30-150mm-length|404 for SKU ZIP and product page has no STEP link
+3805-1718-0150|https://www.gobilda.com/3-pos-tjc8-servo-y-harness-single-mh-fc-to-dual-fh-mc-150mm-length|404 for SKU ZIP and product page has no STEP link
+3805-1718-0300|https://www.gobilda.com/3-pos-tjc8-servo-y-harness-single-mh-fc-to-dual-fh-mc-300mm-length|404 for SKU ZIP and product page has no STEP link
+3805-1718-0450|https://www.gobilda.com/3-pos-tjc8-servo-y-harness-single-mh-fc-to-dual-fh-mc-450mm-length|404 for SKU ZIP and product page has no STEP link
+3805-1718-0600|https://www.gobilda.com/3-pos-tjc8-servo-y-harness-single-mh-fc-to-dual-fh-mc-600mm-length|404 for SKU ZIP and product page has no STEP link
+3805-4002-0150|https://www.gobilda.com/1-xt90-to-3-xt30-harness-single-fh-mc-xt90-to-triple-mh-fc-xt30-150mm-length|404 for SKU ZIP and product page has no STEP link
+3805-4041-0300|https://www.gobilda.com/xt90-y-harness-single-fh-mc-xt90-to-dual-mh-fc-xt90-300mm-length|404 for SKU ZIP and product page has no STEP link
+3806-0322-0015|https://www.gobilda.com/12awg-premium-silicone-jacket-wire-3m-length|404 for SKU ZIP and product page has no STEP link
+4103-0032-0096|https://www.gobilda.com/4103-series-gotube-96mm-length|404 for SKU ZIP and product page has no STEP link
+4202-0070-1070|https://www.gobilda.com/7mm-combination-wrench|404 for SKU ZIP and product page has no STEP link
+4203-0001-0008|https://www.gobilda.com/8mm-pitch-chain-tool|404 for SKU ZIP and product page has no STEP link
+4205-0001-0001|https://www.gobilda.com/3-in-1-snap-ring-pliers|404 for SKU ZIP and product page has no STEP link
+4206-0070-0001|https://www.gobilda.com/7mm-combination-nut-driver|404 for SKU ZIP and product page has no STEP link
+4207-0001-0033|https://www.gobilda.com/3-3mm-cobalt-steel-drill-bit|404 for SKU ZIP and product page has no STEP link
+4207-0001-0040|https://www.gobilda.com/4-0mm-cobalt-steel-drill-bit|404 for SKU ZIP and product page has no STEP link
+5103-0024-0003|https://www.gobilda.com/5103-series-planetary-gearbox-3-7-1-ratio-24mm-length-8mm-rex-shaft|404 for SKU ZIP and product page has no STEP link
+5103-0024-0005|https://www.gobilda.com/5103-series-planetary-gearbox-5-2-1-ratio-24mm-length-8mm-rex-shaft|404 for SKU ZIP and product page has no STEP link
+5103-0024-0014|https://www.gobilda.com/5103-series-planetary-gearbox-13-7-1-ratio-24mm-length-8mm-rex-shaft|404 for SKU ZIP and product page has no STEP link
+5103-0024-0019|https://www.gobilda.com/5103-series-planetary-gearbox-19-2-1-ratio-24mm-length-8mm-rex-shaft|404 for SKU ZIP and product page has no STEP link
+5103-0024-0027|https://www.gobilda.com/5103-series-planetary-gearbox-26-9-1-ratio-24mm-length-8mm-rex-shaft|404 for SKU ZIP and product page has no STEP link
+5103-0024-0051|https://www.gobilda.com/5103-series-planetary-gearbox-50-9-1-ratio-24mm-length-8mm-rex-shaft|404 for SKU ZIP and product page has no STEP link
+5103-0024-0071|https://www.gobilda.com/5103-series-planetary-gearbox-71-2-1-ratio-24mm-length-8mm-rex-shaft|404 for SKU ZIP and product page has no STEP link
+5103-0024-0100|https://www.gobilda.com/5103-series-planetary-gearbox-99-5-1-ratio-24mm-length-8mm-rex-shaft|404 for SKU ZIP and product page has no STEP link
+5103-0024-0139|https://www.gobilda.com/5103-series-planetary-gearbox-139-1-ratio-24mm-length-8mm-rex-shaft|404 for SKU ZIP and product page has no STEP link
+5103-0024-0188|https://www.gobilda.com/5103-series-planetary-gearbox-188-1-ratio-24mm-length-8mm-rex-shaft|404 for SKU ZIP and product page has no STEP link

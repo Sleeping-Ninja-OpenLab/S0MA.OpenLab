@@ -1,0 +1,21 @@
+# =========================================================
+# S0MA Git attributes
+# =========================================================
+
+# Binary assets
+*.uasset -text
+*.umap   -text
+
+*.step  -text
+*.stp   -text
+*.fbx   -text
+*.FCStd -text
+
+*.png  -text
+*.jpg  -text
+*.jpeg -text
+*.tga  -text
+*.exr  -text
+
+*.wav -text
+*.mp3 -text

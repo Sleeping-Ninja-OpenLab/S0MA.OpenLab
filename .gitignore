@@ -1,0 +1,100 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / IDE generated files
+.vs/
+*.VC.db
+*.VC.opendb
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.opensdf
+*.sln.docstates
+
+# Build system artifacts
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+
+# Unreal build/package output
+Build/Receipts/
+StagedBuilds/
+Packaging/
+Cooked/
+
+# Unreal transient/cache files
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+*.autosave
+
+# Crash / diagnostic output
+Crashes/
+Logs/
+
+# Local editor settings
+Saved/Config/WindowsEditor/
+Saved/Autosaves/
+Saved/Backup/
+Saved/Collections/
+Saved/DerivedDataCache/
+Saved/Logs/
+Saved/Profiling/
+Saved/StagedBuilds/
+Saved/Temp/
+
+# Shader/build caches
+*.ushaderprecache
+*.upipelinecache
+
+# Visual Studio generated solution files
+*.sln
+*.VCxProj
+*.VCxProj.filters
+*.VCxProj.user
+
+# Rider / JetBrains
+.idea/
+*.sln.DotSettings.user
+
+# VS Code
+.vscode/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Optional local source-control metadata
+*.orig
+*.rej
+
+# Do NOT ignore these important Unreal project files:
+# Content/
+# Config/
+# Source/
+# Plugins/
+# *.uproject
+
+# goBILDA CAD libraries are generated locally and deliberately not versioned.
+# Keep the public instructions and regeneration tooling in Git.
+CAD/goBILDA/**
+!CAD/goBILDA/README-Where-is-the-goBILDA-FCStd.md
+
+CAD/Vendor/goBILDA/**
+!CAD/Vendor/goBILDA/README-Where-is-the-goBILDA-STEP.md
+!CAD/Vendor/goBILDA/gobilda-sync.sh
+!CAD/Vendor/goBILDA/gobilda-convert-FCStd.sh
+!CAD/Vendor/goBILDA/gobilda-no-step-exclusions.txt
